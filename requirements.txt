@@ -1,0 +1,18 @@
+# FastAPI dan Server
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# DeepFace (Lebih mudah install, tidak perlu dlib)
+deepface
+tf-keras
+tensorflow
+
+# Image Processing
+opencv-python
+Pillow
+numpy
+
+# Optional
+python-jose[cryptography]
