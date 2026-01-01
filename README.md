@@ -1,6 +1,6 @@
 ## Absensi Pengenalan Wajah DeepFace Facenet512 FastAPI dan Face-api.js Client Tanpa kirim Foto
 
-[![Tonton di YouTube](https://img.youtube.com/vi/09mBpCuMG5c/0.jpg)](https://www.youtube.com/watch?v=09mBpCuMG5c)
+[![Tonton di YouTube](https://img.youtube.com/vi/9qk5vxwOqN4/0.jpg)](https://www.youtube.com/watch?v=9qk5vxwOqN4)
 
 ## ✨ Fitur
 
